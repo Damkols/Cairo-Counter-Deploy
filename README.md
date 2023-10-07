@@ -1,6 +1,7 @@
 # Cairo-Counter-Deploy
 
 [Contract Deployed on Starknet here](https://starkscan.co/contract/0x0601440c02a516de3b43f65db7631e85732945edc88a85e319da26304a4301de#overview)
+[Read and Write Contract functions](https://starkscan.co/contract/0x0601440c02a516de3b43f65db7631e85732945edc88a85e319da26304a4301de#read-write-contract-sub-write)
 
 - **Transaction Hash**: 0x4ab9277ca1299f5823925a9bcae07764e8aa1445bf6287a5b872afcab0d987d
 - **Contract Address**: 0x601440c02a516de3b43f65db7631e85732945edc88a85e319da26304a4301de
